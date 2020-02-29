@@ -1,2 +1,4 @@
 # hello-world
-my baby step to the future
+
+Hi everybody!
+My moniker is little fish,and I wanna be a gentle man.
